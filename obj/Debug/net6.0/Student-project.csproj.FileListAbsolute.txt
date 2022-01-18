@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\Student-project.exe
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\Student-project.deps.json
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\Student-project.runtimeconfig.json
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\Student-project.dll
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\ref\Student-project.dll
+C:\Users\HP\source\repos\Student-project\Student-project\bin\Debug\net6.0\Student-project.pdb
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.AssemblyInfo.cs
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.dll
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\ref\Student-project.dll
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.pdb
+C:\Users\HP\source\repos\Student-project\Student-project\obj\Debug\net6.0\Student-project.genruntimeconfig.cache
